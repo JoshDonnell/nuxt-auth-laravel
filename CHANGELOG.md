@@ -3,6 +3,17 @@
 
 ## v0.0.2
 
+
+### 🚀 Enhancements
+
+- Initial commit ([b24ac0f](https://github.com/JoshDonnell/nuxt-auth-laravel/commit/b24ac0f))
+
+### ❤️ Contributors
+
+- Josh Donnell <joshua.donnell1@gmail.com>
+
+## v0.0.2
+
 [compare changes](https://github.com/JoshDonnell/nuxt-auth-laravel/compare/v0.0.2...v0.0.2)
 
 ### 🩹 Fixes
