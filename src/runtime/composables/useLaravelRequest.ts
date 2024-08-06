@@ -16,10 +16,7 @@ interface LaravelAsynReturn<T> {
   laravelMessage: string | undefined;
   laravelErrors: never[] | Record<string, string[]> | undefined;
   data: T | undefined;
-  error: globalThis.Ref<
-    NuxtError<unknown> | undefined,
-    NuxtError<unknown> | undefined
-  >;
+  error: globalThis.Ref<NuxtError<unknown> | undefined>;
   execute: (opts?: AsyncDataExecuteOptions) => Promise<void>;
   refresh: (opts?: AsyncDataExecuteOptions) => Promise<void>;
   clear: () => void;
