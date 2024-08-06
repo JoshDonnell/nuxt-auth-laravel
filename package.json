@@ -1,6 +1,6 @@
 {
   "name": "nuxt-auth-laravel",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Nuxt module is used to manage authentication and data from Laravel. Features include full sanctum and passport support with support for separate auth and data apps which can be used when running a separate SSO application.",
   "repository": "JoshDonnell/nuxt-auth-laravel",
   "license": "MIT",
